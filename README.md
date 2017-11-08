@@ -17,6 +17,7 @@ Pytorch:
 - [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
 
 Torch:
+
 — [leftthomas/FCCapsNet](https://github.com/leftthomas/FCCapsNet)
 
 Tensorflow:
