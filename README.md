@@ -73,5 +73,8 @@ MNIST:
 - [winwinJJiang/capsNet-Tensorflow](https://github.com/winwinJJiang/capsNet-Tensorflow)
 - [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
 
+BanglaLekha-Isolated Dataset:
+- [codeheadshopon/CapsNet_BanglaLekha](https://github.com/codeheadshopon/CapsNet_BanglaLekha)
+
 Traffic Sign Dataset (German):
 - [thibo73800/capsnet_traffic_sign_classifier](https://github.com/thibo73800/capsnet_traffic_sign_classifier)
