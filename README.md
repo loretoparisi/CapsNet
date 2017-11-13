@@ -29,6 +29,7 @@ Tensorflow:
 - [winwinJJiang/capsNet-Tensorflow](https://github.com/winwinJJiang/capsNet-Tensorflow)
 - [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
 - [thibo73800/capsnet_traffic_sign_classifier](https://github.com/thibo73800/capsnet_traffic_sign_classifier)
+- [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks)
 
 Keras:
 - [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
