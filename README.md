@@ -60,4 +60,15 @@ MNIST:
 - [cedrickchee/capsule-net-pytorch](https://github.com/cedrickchee/capsule-net-pytorch)
 - [laubonghaudoi/CapsNet_guide_PyTorch](https://github.com/laubonghaudoi/CapsNet_guide_PyTorch)
 - [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
+- [leftthomas/FCCapsNet](https://github.com/leftthomas/FCCapsNet)
+- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+- [InnerPeace-Wu/CapsNet-tensorflow](https://github.com/InnerPeace-Wu/CapsNet-tensorflow)
+- [laodar/tf_CapsNet](https://github.com/laodar/tf_CapsNet)
+- [nnUyi/CapsNet](https://github.com/nnUyi/CapsNet)
+- [tjiang31/CapsNet](https://github.com/tjiang31/CapsNet)
+- [rrqq/CapsNet-tensorflow-jupyter](https://github.com/rrqq/CapsNet-tensorflow-jupyter)
+- [winwinJJiang/capsNet-Tensorflow](https://github.com/winwinJJiang/capsNet-Tensorflow)
+- [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
 
+Traffic Sign Dataset (German):
+- [thibo73800/capsnet_traffic_sign_classifier](https://github.com/thibo73800/capsnet_traffic_sign_classifier)
