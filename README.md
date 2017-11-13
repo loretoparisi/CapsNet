@@ -45,6 +45,9 @@ Lasagne:
 Chainer:
 - [soskek/dynamic_routing_between_capsules](https://github.com/soskek/dynamic_routing_between_capsules)
 
+Matlab:
+- [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
+
 
 # Other
 - [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
