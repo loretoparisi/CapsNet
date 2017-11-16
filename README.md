@@ -1,6 +1,11 @@
 # CapsNet
 CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsules"
 
+# Table of Contents
+- [Documentation](https://github.com/loretoparisi/CapsNet#docs)
+- [Implementations by Framework](https://github.com/loretoparisi/CapsNet#implementations-by-framework)
+- [Implementations By Dataset](https://github.com/loretoparisi/CapsNet#implementations-by-dataset)
+
 # Docs
 ## Papers
 [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v1), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 26 Oct 2017
