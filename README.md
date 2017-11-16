@@ -80,7 +80,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
 
 ## Cifar10:
-- - [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
+- [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
 
 ## BanglaLekha-Isolated Dataset:
 - [codeheadshopon/CapsNet_BanglaLekha](https://github.com/codeheadshopon/CapsNet_BanglaLekha)
