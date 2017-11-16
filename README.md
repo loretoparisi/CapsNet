@@ -41,6 +41,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [XifengGuo/CapsNet-Fashion-MNIST](https://github.com/XifengGuo/CapsNet-Fashion-MNIST)
 - [sunxirui310/CapsNet-Keras](https://github.com/sunxirui310/CapsNet-Keras)
 - [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
+- [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
 
 ## MXNet
 - [AaronLeong/CapsNet_Mxnet)](https://github.com/AaronLeong/CapsNet_Mxnet)
@@ -80,6 +81,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [rrqq/CapsNet-tensorflow-jupyter](https://github.com/rrqq/CapsNet-tensorflow-jupyter)
 - [winwinJJiang/capsNet-Tensorflow](https://github.com/winwinJJiang/capsNet-Tensorflow)
 - [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
+
+## IMDB Reviews
+- [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
 
 ## Cifar 10
 - [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
