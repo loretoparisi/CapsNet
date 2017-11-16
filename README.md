@@ -15,6 +15,7 @@ Pytorch:
 - [cedrickchee/capsule-net-pytorch](https://github.com/cedrickchee/capsule-net-pytorch)
 - [laubonghaudoi/CapsNet_guide_PyTorch](https://github.com/laubonghaudoi/CapsNet_guide_PyTorch)
 - [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
+- [AlexHex7/CapsNet_pytorch](https://github.com/AlexHex7/CapsNet_pytorch)
 
 Torch:
 - [leftthomas/FCCapsNet](https://github.com/leftthomas/FCCapsNet)
