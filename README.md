@@ -2,7 +2,9 @@
 CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsules"
 
 # Docs
+## Papers
 [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v1), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 26 Oct 2017
+[MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb), Anonymous authors, ICLR 2018
 
 # Implementations by Framework
 ## Pytorch
@@ -79,7 +81,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [winwinJJiang/capsNet-Tensorflow](https://github.com/winwinJJiang/capsNet-Tensorflow)
 - [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
 
-## Cifar10:
+## Cifar 10
 - [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
 
 ## BanglaLekha-Isolated Dataset:
