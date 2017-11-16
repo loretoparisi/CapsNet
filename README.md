@@ -49,6 +49,9 @@ Chainer:
 Matlab:
 - [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
 
+JavaScript:
+- [alseambusher/capsnet.js](https://github.com/alseambusher/capsnet.js)
+
 
 # Other
 - [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
