@@ -103,6 +103,10 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 ## Traffic Sign Dataset (German):
 - [thibo73800/capsnet_traffic_sign_classifier](https://github.com/thibo73800/capsnet_traffic_sign_classifier)
 
+# Implementations by Task
+## Emotion Recognition
+- [mitiku1/Emopy-CapsNet](https://github.com/mitiku1/Emopy-CapsNet)
+
 # Implementations By Language
 ## Turkish
 - [deeplearningturkiye/kapsul-agi-capsule-network](https://github.com/deeplearningturkiye/kapsul-agi-capsule-network)
