@@ -108,6 +108,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 ## Iceberg Classification Challenge (Kaggle)
 - [sdhayalk/CapsNet-for-Iceberg-or-Submarine-Classification](https://github.com/sdhayalk/CapsNet-for-Iceberg-or-Submarine-Classification)
+- [leftthomas/IcebergClassifier](https://github.com/leftthomas/IcebergClassifier)
 
 # Implementations by Task
 ## Emotion Recognition
