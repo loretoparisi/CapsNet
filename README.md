@@ -14,6 +14,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb), Anonymous authors, ICLR 2018
 ## Articles
 - [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
+- [Understand and apply CapsNet on Traffic sign classification](https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea)
 
 # Implementations by Framework
 ## Pytorch
