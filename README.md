@@ -38,6 +38,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 ## Jupyter Notebook
 - [acburigo/CapsNet](https://github.com/acburigo/CapsNet)
+- [leoniloris/CapsNet](https://github.com/leoniloris/CapsNet)
 
 ## Torch
 - [leftthomas/FCCapsNet](https://github.com/leftthomas/FCCapsNet)
