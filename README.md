@@ -82,6 +82,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 ## Matlab
 - [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
 
+## R
+- [dfalbel/capsnet](https://github.com/dfalbel/capsnet)
+
 ## JavaScript
 - [alseambusher/capsnet.js](https://github.com/alseambusher/capsnet.js)
 
