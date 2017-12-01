@@ -41,6 +41,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [leoniloris/CapsNet](https://github.com/leoniloris/CapsNet)
 - [ruslangrimov/capsnet-with-capsulewise-convolution](https://github.com/ruslangrimov/capsnet-with-capsulewise-convolution)
 - [aliasvishnu/Capsule-Networks-Notebook-MNIST](https://github.com/aliasvishnu/Capsule-Networks-Notebook-MNIST)
+- [adambielski/CapsNet-pytorch](https://github.com/adambielski/CapsNet-pytorch)
 
 ## Torch
 - [leftthomas/FCCapsNet](https://github.com/leftthomas/FCCapsNet)
