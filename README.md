@@ -3,6 +3,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 # Table of Contents
 - [Documentation](https://github.com/loretoparisi/CapsNet#docs)
+- [Discussions Groups](https://github.com/loretoparisi/CapsNet#discussion-groups)
 - [Implementations by Framework](https://github.com/loretoparisi/CapsNet#implementations-by-framework)
 - [Implementations By Dataset](https://github.com/loretoparisi/CapsNet#implementations-by-dataset)
 - [Implementations By Task](https://github.com/loretoparisi/CapsNet/blob/master/README.md#implementations-by-task)
@@ -27,6 +28,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 ## Presentations
 - [Dynamic Routing Between Capsules](https://www.slideshare.net/kyuhwanjung/vuno-dl-seminarcapsnetskyuhwanjung20171109)
+
+# Discussion Groups
+- [CapsNet-Tensorflow](https://gitter.im/CapsNet-Tensorflow/Lobby)
 
 # Implementations by Framework
 ## Pytorch
