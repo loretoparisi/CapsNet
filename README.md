@@ -30,7 +30,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Dynamic Routing Between Capsules](https://www.slideshare.net/kyuhwanjung/vuno-dl-seminarcapsnetskyuhwanjung20171109)
 
 ## Webinar
-– [Capsule Networks: An Improvement to Convolutional Networks - Siraj Raval
+- [Capsule Networks: An Improvement to Convolutional Networks - Siraj Raval
 ](https://www.youtube.com/watch?v=VKoLGnq15RM)
 
 # Discussion Groups
