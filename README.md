@@ -102,6 +102,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 ## JavaScript
 - [alseambusher/capsnet.js](https://github.com/alseambusher/capsnet.js)
 
+## Vulcan
+- [moothyknight/CapsNet-for-Graphics-Rendering-Optimization](https://github.com/moothyknight/CapsNet-for-Graphics-Rendering-Optimization)
+
 ## Other
 - [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
 
