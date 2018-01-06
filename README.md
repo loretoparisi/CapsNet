@@ -49,6 +49,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
 - [AlexHex7/CapsNet_pytorch](https://github.com/AlexHex7/CapsNet_pytorch)
 
+## Pytorch + CUDA
+- [leftthomas/CapsuleLayer](https://github.com/leftthomas/CapsuleLayer)
+
 ## Jupyter Notebook
 - [acburigo/CapsNet](https://github.com/acburigo/CapsNet)
 - [leoniloris/CapsNet](https://github.com/leoniloris/CapsNet)
