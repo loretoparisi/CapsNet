@@ -93,6 +93,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 - [GarrickLin/Capsnet.Gluon](https://github.com/GarrickLin/Capsnet.Gluon)
 
+## CNTK
+- [Southworkscom/CapsNet-CNTK](https://github.com/southworkscom/CapsNet-CNTK)
+
 ## Lasagne
 - [DeniskaMazur/CapsNet-Lasagne](https://github.com/DeniskaMazur/CapsNet-Lasagne)
 
@@ -134,6 +137,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [rrqq/CapsNet-tensorflow-jupyter](https://github.com/rrqq/CapsNet-tensorflow-jupyter)
 - [winwinJJiang/capsNet-Tensorflow](https://github.com/winwinJJiang/capsNet-Tensorflow)
 - [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
+- [Southworkscom/CapsNet-CNTK](https://github.com/southworkscom/CapsNet-CNTK)
 
 ## IMDB Reviews
 - [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
