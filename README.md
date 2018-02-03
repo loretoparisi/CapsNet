@@ -40,7 +40,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [CapsNet-Tensorflow](https://gitter.im/CapsNet-Tensorflow/Lobby)
 
 # Official Implementations
-The implementations has been considered to be official since the authors were directly involved in the papers as co-authors ore referenced.
+The implementations has been considered to be official since the authors were directly involved in the papers as co-authors or they had some references.
 - [Sarasra/models](https://github.com/Sarasra/models)
 
 # Implementations by Framework
