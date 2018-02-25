@@ -22,11 +22,12 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 - [Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
 - [Understanding Hinton’s Capsule Networks. Part III: Dynamic Routing Between Capsules.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-iii-dynamic-routing-between-capsules-349f6d30418)
+- [Understanding Hinton’s Capsule Networks. Part IV: CapsNet Architecture](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce) :new:
 - [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
 - [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/)
 - [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/)
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/)
-- [CapsNetについての調べ - (JAPANESE)](https://qiita.com/onlyzs/items/5096f50a21758a536d9a)
+- [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc) :new:
 
 ## Tutorials
 - [Understand and apply CapsNet on Traffic sign classification](https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea)
@@ -42,6 +43,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 # Discussion Groups
 - [CapsNet-Tensorflow](https://gitter.im/CapsNet-Tensorflow/Lobby)
 - [Capsule Networks discussion - Facebook](https://www.facebook.com/groups/1830303997268623)
+- [Could GANs work with Hinton's capsule theory?](https://www.quora.com/Could-GANs-work-with-Hintons-capsule-theory) :new:
 
 # Official Implementations
 The implementations has been considered to be official since the authors were directly involved in the papers as co-authors or they had some references.
@@ -175,5 +177,8 @@ The implementations has been considered to be official since the authors were di
 - [mitiku1/Emopy-CapsNet](https://github.com/mitiku1/Emopy-CapsNet)
 
 # Translations
+## Japanese
+- [CapsNetについての調べ - (JAPANESE)](https://qiita.com/onlyzs/items/5096f50a21758a536d9a)
+
 ## Turkish
 - [deeplearningturkiye/kapsul-agi-capsule-network](https://github.com/deeplearningturkiye/kapsul-agi-capsule-network)
