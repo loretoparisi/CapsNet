@@ -5,10 +5,11 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Documentation](https://github.com/loretoparisi/CapsNet#docs)
 - [Discussions Groups](https://github.com/loretoparisi/CapsNet#discussion-groups)
 - [Official Implementations](https://github.com/loretoparisi/CapsNet#official-implementations)
+- [Proof of Work](https://github.com/loretoparisi/CapsNet#proof-of-work)
 - [Implementations by Framework](https://github.com/loretoparisi/CapsNet#implementations-by-framework)
 - [Implementations By Dataset](https://github.com/loretoparisi/CapsNet#implementations-by-dataset)
 - [Implementations By Task](https://github.com/loretoparisi/CapsNet/blob/master/README.md#implementations-by-task)
-- [Implementations By Language](https://github.com/loretoparisi/CapsNet/blob/master/README.md#implementations-by-language)
+- [Translations](https://github.com/loretoparisi/CapsNet/blob/master/README.md#translations)
 - [Other Resources](https://github.com/loretoparisi/CapsNet/blob/master/README.md#other-resources)
 
 # Docs
@@ -16,6 +17,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v1), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 26 Oct 2017
 - [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb), Anonymous authors, ICLR 2018
 - [Does the Brain do Inverse Graphics?](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10754.pdf), Geoffrey Hinton, Alex Krizhevsky, Navdeep Jaitly, Tijmen Tieleman & Yichuan Tang, Department of Computer Science, University of Toronto, GSS 2012. 
+- [CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/abs/1802.06167) :new:
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 - [Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
@@ -44,6 +46,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 # Official Implementations
 The implementations has been considered to be official since the authors were directly involved in the papers as co-authors or they had some references.
 - [Sarasra/models](https://github.com/Sarasra/models)
+
+# Proof of Work
+- [Adversarial Attack to Capsule Networks](https://github.com/jaesik817/adv_attack_capsnet) :new:
 
 # Other Resources
 - [A curated list of awesome resources related to capsule networks](https://github.com/aisummary/awesome-capsule-networks)
@@ -169,6 +174,6 @@ The implementations has been considered to be official since the authors were di
 ## Emotion Recognition
 - [mitiku1/Emopy-CapsNet](https://github.com/mitiku1/Emopy-CapsNet)
 
-# Implementations By Language
+# Translations
 ## Turkish
 - [deeplearningturkiye/kapsul-agi-capsule-network](https://github.com/deeplearningturkiye/kapsul-agi-capsule-network)
