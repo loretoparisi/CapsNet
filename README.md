@@ -96,6 +96,7 @@ The implementations has been considered to be official since the authors were di
 - [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks)
 - [jostosh/capsnet](https://github.com/jostosh/capsnet)
 - [alisure-ml/CapsNet](https://github.com/alisure-ml/CapsNet)
+- [bourdakos1/CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) :new:
 
 ## Keras
 - [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
