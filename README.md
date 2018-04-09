@@ -179,6 +179,8 @@ The implementations has been considered to be official since the authors were di
 - [mitiku1/Emopy-CapsNet](https://github.com/mitiku1/Emopy-CapsNet)
 ## Named Entity Recognition (NER)
 - [Chucooleg/CapsNet_for_NER](https://github.com/Chucooleg/CapsNet_for_NER)
+## Natural Language Processing (NLP)
+- [stefan-it/capsnet-nlp](https://github.com/stefan-it/capsnet-nlp)
 
 # Translations
 ## Japanese
