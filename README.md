@@ -177,6 +177,8 @@ The implementations has been considered to be official since the authors were di
 # Implementations by Task
 ## Emotion Recognition
 - [mitiku1/Emopy-CapsNet](https://github.com/mitiku1/Emopy-CapsNet)
+## Named Entity Recognition (NER)
+- [Chucooleg/CapsNet_for_NER](https://github.com/Chucooleg/CapsNet_for_NER)
 
 # Translations
 ## Japanese
