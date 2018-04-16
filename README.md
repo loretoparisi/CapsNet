@@ -18,6 +18,10 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb), Anonymous authors, ICLR 2018
 - [Does the Brain do Inverse Graphics?](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10754.pdf), Geoffrey Hinton, Alex Krizhevsky, Navdeep Jaitly, Tijmen Tieleman & Yichuan Tang, Department of Computer Science, University of Toronto, GSS 2012. 
 - [CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/abs/1802.06167) Ayush Jaiswal, Wael AbdAlmageed, Premkumar Natarajan, USC Information Sciences Institute, Feb 2018 :new:
+- [Brain Tumor Type Classification via Capsule Networks](https://arxiv.org/abs/1802.10200v2) Parnian Afshar, Arash Mohammadi, Konstantinos N. Plataniotis
+- [Improved Explainability of Capsule Networks: Relevance Path by Agreement](https://arxiv.org/abs/1802.10204v1) Atefeh Shahroudnejad, Arash Mohammadi, Konstantinos N. Plataniotis
+- [Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/abs/1804.00538v2) Wei Zhao, Jianbo Ye, Min Yang, Zeyang Lei, Suofei Zhang, Zhou Zhao
+
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 - [Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
