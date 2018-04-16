@@ -178,6 +178,8 @@ The implementations has been considered to be official since the authors were di
 - [leftthomas/IcebergClassifier](https://github.com/leftthomas/IcebergClassifier)
 
 # Implementations by Task
+## Speech Recognition
+- [SvenDH/CapsNet-ASR](https://github.com/SvenDH/CapsNet-ASR)
 ## Emotion Recognition
 - [mitiku1/Emopy-CapsNet](https://github.com/mitiku1/Emopy-CapsNet)
 ## Named Entity Recognition (NER)
