@@ -21,6 +21,8 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Brain Tumor Type Classification via Capsule Networks](https://arxiv.org/abs/1802.10200v2) Parnian Afshar, Arash Mohammadi, Konstantinos N. Plataniotis
 - [Improved Explainability of Capsule Networks: Relevance Path by Agreement](https://arxiv.org/abs/1802.10204v1) Atefeh Shahroudnejad, Arash Mohammadi, Konstantinos N. Plataniotis
 - [Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/abs/1804.00538v2) Wei Zhao, Jianbo Ye, Min Yang, Zeyang Lei, Suofei Zhang, Zhou Zhao
+- [
+Capsules for Object Segmentation](https://arxiv.org/abs/1804.04241v1) Rodney LaLonde, Ulas Bagci
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
