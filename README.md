@@ -136,6 +136,9 @@ The implementations has been considered to be official since the authors were di
 ## C++
 - [MxAR/CapsNet.cpp](https://github.com/MxAR/CapsNet.cpp)
 
+## C
+- [MxAR/CapsNet.c](https://github.com/MxAR/CapsNet.c)
+
 ## JavaScript
 - [alseambusher/capsnet.js](https://github.com/alseambusher/capsnet.js)
 
