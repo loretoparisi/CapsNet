@@ -103,7 +103,8 @@ The implementations has been considered to be official since the authors were di
 - [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks)
 - [jostosh/capsnet](https://github.com/jostosh/capsnet)
 - [alisure-ml/CapsNet](https://github.com/alisure-ml/CapsNet)
-- [bourdakos1/CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) :new:
+- [bourdakos1/CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) 
+- [andyweizhao/capsule_text_classification](https://github.com/andyweizhao/capsule_text_classification) :new:
 
 ## Keras
 - [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
@@ -187,6 +188,8 @@ The implementations has been considered to be official since the authors were di
 - [leftthomas/IcebergClassifier](https://github.com/leftthomas/IcebergClassifier)
 
 # Implementations by Task
+## Text Classification
+- [andyweizhao/capsule_text_classification](https://github.com/andyweizhao/capsule_text_classification) :new:
 ## Speech Recognition
 - [SvenDH/CapsNet-ASR](https://github.com/SvenDH/CapsNet-ASR)
 ## Emotion Recognition
