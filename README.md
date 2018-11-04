@@ -33,8 +33,10 @@ Capsules for Object Segmentation](https://arxiv.org/abs/1804.04241v1) Rodney LaL
 - [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/)
 - [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/)
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/)
-- [Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952) :new:
-- [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc) :new:
+- [Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)
+- [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
+- [Investigating Capsule Networks with Dynamic Routing for
+Text Classification](https://arxiv.org/pdf/1804.00538.pdf) :new:
 
 ## Tutorials
 - [Understand and apply CapsNet on Traffic sign classification](https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea)
