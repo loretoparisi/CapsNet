@@ -66,6 +66,7 @@ The implementations has been considered to be official since the authors were di
 
 # Implementations by Framework
 ## Pytorch
+- [mavanb/capsule_network_pytorch](https://github.com/mavanb/capsule_network_pytorch)
 - [leftthomas/CapsNet](https://github.com/leftthomas/CapsNet)
 - [dragen1860/CapsNet-Pytorch](https://github.com/dragen1860/CapsNet-Pytorch)
 - [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
