@@ -78,6 +78,7 @@ The implementations has been considered to be official since the authors were di
 - [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
 - [AlexHex7/CapsNet_pytorch](https://github.com/AlexHex7/CapsNet_pytorch)
 - [leftthomas/CCN](https://github.com/leftthomas/CCN)
+- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) :new:
 
 ## Pytorch + CUDA
 - [leftthomas/CapsuleLayer](https://github.com/leftthomas/CapsuleLayer)
