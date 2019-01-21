@@ -23,6 +23,8 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/abs/1804.00538v2) Wei Zhao, Jianbo Ye, Min Yang, Zeyang Lei, Suofei Zhang, Zhou Zhao
 - [
 Capsules for Object Segmentation](https://arxiv.org/abs/1804.04241v1) Rodney LaLonde, Ulas Bagci
+- [Investigating Capsule Networks with Dynamic Routing for
+Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3, Min Yang1, Zeyang Lei4 , Soufei Zhang5 , Zhou Zhao6 :new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
@@ -35,8 +37,6 @@ Capsules for Object Segmentation](https://arxiv.org/abs/1804.04241v1) Rodney LaL
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/)
 - [Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)
 - [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
-- [Investigating Capsule Networks with Dynamic Routing for
-Text Classification](https://arxiv.org/pdf/1804.00538.pdf) :new:
 
 ## Tutorials
 - [Understand and apply CapsNet on Traffic sign classification](https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea)
@@ -66,6 +66,7 @@ The implementations has been considered to be official since the authors were di
 
 # Implementations by Framework
 ## Pytorch
+- [mavanb/capsule_network_pytorch](https://github.com/mavanb/capsule_network_pytorch)
 - [leftthomas/CapsNet](https://github.com/leftthomas/CapsNet)
 - [dragen1860/CapsNet-Pytorch](https://github.com/dragen1860/CapsNet-Pytorch)
 - [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
@@ -77,6 +78,7 @@ The implementations has been considered to be official since the authors were di
 - [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
 - [AlexHex7/CapsNet_pytorch](https://github.com/AlexHex7/CapsNet_pytorch)
 - [leftthomas/CCN](https://github.com/leftthomas/CCN)
+- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) :new:
 
 ## Pytorch + CUDA
 - [leftthomas/CapsuleLayer](https://github.com/leftthomas/CapsuleLayer)
