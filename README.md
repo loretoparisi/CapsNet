@@ -25,6 +25,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 Capsules for Object Segmentation](https://arxiv.org/abs/1804.04241v1) Rodney LaLonde, Ulas Bagci
 - [Investigating Capsule Networks with Dynamic Routing for
 Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3, Min Yang1, Zeyang Lei4 , Soufei Zhang5 , Zhou Zhao6 :new:
+- [The Multi-Lane Capsule Network (MLCN)](https://www.researchgate.net/publication/331225145_The_Multi-Lane_Capsule_Network_MLCN) Vanderson M. do Rosario, Edson Borin, Mauricio Bretenitz Jr., Feb 2019 :new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
