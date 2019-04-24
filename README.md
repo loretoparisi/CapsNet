@@ -2,7 +2,7 @@
 CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsules"
 
 # Table of Contents
-- [What's New](https://github.com/loretoparisi/CapsNet#what-s-new)
+- [What's New](https://github.com/loretoparisi/CapsNet#whats-new)
 - [Documentation](https://github.com/loretoparisi/CapsNet#documentation)
 - [Discussions Groups](https://github.com/loretoparisi/CapsNet#discussion-groups)
 - [Official Implementations](https://github.com/loretoparisi/CapsNet#official-implementations)
