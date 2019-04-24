@@ -2,7 +2,8 @@
 CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsules"
 
 # Table of Contents
-- [Documentation](https://github.com/loretoparisi/CapsNet#docs)
+- [What's New](https://github.com/loretoparisi/CapsNet#what-s-new)
+- [Documentation](https://github.com/loretoparisi/CapsNet#documentation)
 - [Discussions Groups](https://github.com/loretoparisi/CapsNet#discussion-groups)
 - [Official Implementations](https://github.com/loretoparisi/CapsNet#official-implementations)
 - [Proof of Work](https://github.com/loretoparisi/CapsNet#proof-of-work)
@@ -12,7 +13,11 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Translations](https://github.com/loretoparisi/CapsNet/blob/master/README.md#translations)
 - [Other Resources](https://github.com/loretoparisi/CapsNet/blob/master/README.md#other-resources)
 
-# Docs
+# What's New
+- [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf) :new:
+- [vinojjayasundara/textcaps](https://github.com/vinojjayasundara/textcaps) :new:
+
+# Documentation
 ## Papers
 - [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v1), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 26 Oct 2017
 - [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb), Anonymous authors, ICLR 2018
@@ -27,6 +32,7 @@ Capsules for Object Segmentation](https://arxiv.org/abs/1804.04241v1) Rodney LaL
 Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3, Min Yang1, Zeyang Lei4 , Soufei Zhang5 , Zhou Zhao6
 - [The Multi-Lane Capsule Network (MLCN)](https://www.researchgate.net/publication/331225145_The_Multi-Lane_Capsule_Network_MLCN) Vanderson M. do Rosario, Edson Borin, Mauricio Bretenitz Jr., Feb 2019 :new:
 - [From Attention in Transformers to Dynamic Routing in Capsule Nets](https://staff.fnwi.uva.nl/s.abnar/?p=108) :new:
+- [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf) :new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
@@ -119,6 +125,7 @@ The implementations has been considered to be official since the authors were di
 - [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
 - [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
 - [fengwang/minimal-capsule](https://github.com/fengwang/minimal-capsule)
+- [vinojjayasundara/textcaps](https://github.com/vinojjayasundara/textcaps) :new:
 
 ## MXNet
 - [AaronLeong/CapsNet_Mxnet)](https://github.com/AaronLeong/CapsNet_Mxnet)
