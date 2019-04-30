@@ -33,6 +33,7 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [The Multi-Lane Capsule Network (MLCN)](https://www.researchgate.net/publication/331225145_The_Multi-Lane_Capsule_Network_MLCN) Vanderson M. do Rosario, Edson Borin, Mauricio Bretenitz Jr., Feb 2019 :new:
 - [From Attention in Transformers to Dynamic Routing in Capsule Nets](https://staff.fnwi.uva.nl/s.abnar/?p=108) :new:
 - [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf) :new:
+- [DeepCaps: Going Deeper with Capsule Networks](https://arxiv.org/abs/1904.09546) :new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
