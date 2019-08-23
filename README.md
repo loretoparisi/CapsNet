@@ -14,6 +14,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Other Resources](https://github.com/loretoparisi/CapsNet/blob/master/README.md#other-resources)
 
 # What's New
+- Implementation of "Matrix Capsules with EM Routing" by researchers at IBM ([implementation](https://github.com/IBM/matrix-capsules-with-em-routing), [paper](https://arxiv.org/abs/1907.00652)).
 - [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf) :new:
 - [vinojjayasundara/textcaps](https://github.com/vinojjayasundara/textcaps) :new:
 
@@ -22,7 +23,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v1), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 26 Oct 2017
 - [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb), Anonymous authors, ICLR 2018
 - [Does the Brain do Inverse Graphics?](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10754.pdf), Geoffrey Hinton, Alex Krizhevsky, Navdeep Jaitly, Tijmen Tieleman & Yichuan Tang, Department of Computer Science, University of Toronto, GSS 2012. 
-- [CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/abs/1802.06167) Ayush Jaiswal, Wael AbdAlmageed, Premkumar Natarajan, USC Information Sciences Institute, Feb 2018 :new:
+- [CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/abs/1802.06167) Ayush Jaiswal, Wael AbdAlmageed, Premkumar Natarajan, USC Information Sciences Institute, Feb 2018
 - [Brain Tumor Type Classification via Capsule Networks](https://arxiv.org/abs/1802.10200v2) Parnian Afshar, Arash Mohammadi, Konstantinos N. Plataniotis
 - [Improved Explainability of Capsule Networks: Relevance Path by Agreement](https://arxiv.org/abs/1802.10204v1) Atefeh Shahroudnejad, Arash Mohammadi, Konstantinos N. Plataniotis
 - [Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/abs/1804.00538v2) Wei Zhao, Jianbo Ye, Min Yang, Zeyang Lei, Suofei Zhang, Zhou Zhao
@@ -34,6 +35,7 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [From Attention in Transformers to Dynamic Routing in Capsule Nets](https://staff.fnwi.uva.nl/s.abnar/?p=108) :new:
 - [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf) :new:
 - [DeepCaps: Going Deeper with Capsule Networks](https://arxiv.org/abs/1904.09546) :new:
+- [Avoiding Implementation Pitfalls of "Matrix Capsules with EM Routing" by Hinton et al.](https://arxiv.org/abs/1907.00652) Ashley Gritzman, Aug 2019 :new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
@@ -104,6 +106,7 @@ The implementations has been considered to be official since the authors were di
 - [leftthomas/FCCapsNet](https://github.com/leftthomas/FCCapsNet)
 
 ## Tensorflow
+- [IBM/matrix-capsules-with-em-routing](https://github.com/IBM/matrix-capsules-with-em-routing)
 - [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 - [InnerPeace-Wu/CapsNet-tensorflow](https://github.com/InnerPeace-Wu/CapsNet-tensorflow)
 - [laodar/tf_CapsNet](https://github.com/laodar/tf_CapsNet)
