@@ -93,6 +93,7 @@ The implementations has been considered to be official since the authors were di
 
 ## Pytorch + CUDA
 - [leftthomas/CapsuleLayer](https://github.com/leftthomas/CapsuleLayer)
+- [bakirillov/capsules](https://github.com/bakirillov/capsules)
 
 ## Jupyter Notebook
 - [acburigo/CapsNet](https://github.com/acburigo/CapsNet)
