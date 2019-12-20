@@ -15,8 +15,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 # What's New
 - [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910) :new:
-- [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891):new:
-
+- [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891) :new:
+- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455) :new:
+- [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300) :new:
 
 # Documentation
 ## Papers
@@ -31,13 +32,15 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 Capsules for Object Segmentation](https://arxiv.org/abs/1804.04241v1) Rodney LaLonde, Ulas Bagci
 - [Investigating Capsule Networks with Dynamic Routing for
 Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3, Min Yang1, Zeyang Lei4 , Soufei Zhang5 , Zhou Zhao6
-- [The Multi-Lane Capsule Network (MLCN)](https://www.researchgate.net/publication/331225145_The_Multi-Lane_Capsule_Network_MLCN) Vanderson M. do Rosario, Edson Borin, Mauricio Bretenitz Jr., Feb 2019 :new:
-- [From Attention in Transformers to Dynamic Routing in Capsule Nets](https://staff.fnwi.uva.nl/s.abnar/?p=108) :new:
-- [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf) :new:
-- [DeepCaps: Going Deeper with Capsule Networks](https://arxiv.org/abs/1904.09546) :new:
+- [The Multi-Lane Capsule Network (MLCN)](https://www.researchgate.net/publication/331225145_The_Multi-Lane_Capsule_Network_MLCN) Vanderson M. do Rosario, Edson Borin, Mauricio Bretenitz Jr., Feb 2019
+- [From Attention in Transformers to Dynamic Routing in Capsule Nets](https://staff.fnwi.uva.nl/s.abnar/?p=108)
+- [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf)
+- [DeepCaps: Going Deeper with Capsule Networks](https://arxiv.org/abs/1904.09546)
 - [Avoiding Implementation Pitfalls of "Matrix Capsules with EM Routing" by Hinton et al.](https://arxiv.org/abs/1907.00652) Ashley Gritzman, Aug 2019
 - [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910) :new:
 - [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891):new:
+- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455) :new:
+- [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300) :new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
