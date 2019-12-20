@@ -130,7 +130,8 @@ The implementations has been considered to be official since the authors were di
 - [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
 - [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
 - [fengwang/minimal-capsule](https://github.com/fengwang/minimal-capsule)
-- [vinojjayasundara/textcaps](https://github.com/vinojjayasundara/textcaps) :new:
+- [vinojjayasundara/textcaps](https://github.com/vinojjayasundara/textcaps)
+- [Kayzaks/VividNet](https://github.com/Kayzaks/VividNet) :new:
 
 ## MXNet
 - [AaronLeong/CapsNet_Mxnet)](https://github.com/AaronLeong/CapsNet_Mxnet)
