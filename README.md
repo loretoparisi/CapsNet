@@ -14,9 +14,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Other Resources](https://github.com/loretoparisi/CapsNet/blob/master/README.md#other-resources)
 
 # What's New
-- Implementation of "Matrix Capsules with EM Routing" by researchers at IBM ([implementation](https://github.com/IBM/matrix-capsules-with-em-routing), [paper](https://arxiv.org/abs/1907.00652)).
-- [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf) :new:
-- [vinojjayasundara/textcaps](https://github.com/vinojjayasundara/textcaps) :new:
+- [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910) :new:
+- [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891):new:
+
 
 # Documentation
 ## Papers
@@ -35,7 +35,9 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [From Attention in Transformers to Dynamic Routing in Capsule Nets](https://staff.fnwi.uva.nl/s.abnar/?p=108) :new:
 - [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf) :new:
 - [DeepCaps: Going Deeper with Capsule Networks](https://arxiv.org/abs/1904.09546) :new:
-- [Avoiding Implementation Pitfalls of "Matrix Capsules with EM Routing" by Hinton et al.](https://arxiv.org/abs/1907.00652) Ashley Gritzman, Aug 2019 :new:
+- [Avoiding Implementation Pitfalls of "Matrix Capsules with EM Routing" by Hinton et al.](https://arxiv.org/abs/1907.00652) Ashley Gritzman, Aug 2019
+- [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910) :new:
+- [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891):new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
