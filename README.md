@@ -1,6 +1,6 @@
 # CapsNet
 CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsules"
-
+- [What's New](https://github.com/loretoparisi/CapsNet#whats-new)
 # Table of Contents
 - [What's New](https://github.com/loretoparisi/CapsNet#whats-new)
 - [Abstract](https://github.com/loretoparisi/CapsNet#abstract) :new:
@@ -35,6 +35,8 @@ classification on SVHN (55%) and MNIST (98.7%).*
 Excerpt from
 Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
 
+[UP](https://github.com/loretoparisi/CapsNet#CapsNet)
+
 # Documentation
 ## Papers
 - [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v1), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 26 Oct 2017
@@ -59,6 +61,8 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300) :new:
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019 :new:
 
+[UP](https://github.com/loretoparisi/CapsNet#CapsNet)
+
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 - [Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
@@ -70,6 +74,8 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/)
 - [Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)
 - [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
+
+[UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
 ## Tutorials
 - [Understand and apply CapsNet on Traffic sign classification](https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea)
@@ -155,6 +161,8 @@ The implementations has been considered to be official since the authors were di
 - [vinojjayasundara/textcaps](https://github.com/vinojjayasundara/textcaps)
 - [Kayzaks/VividNet](https://github.com/Kayzaks/VividNet) :new:
 
+[UP](https://github.com/loretoparisi/CapsNet#CapsNet)
+
 ## MXNet
 - [AaronLeong/CapsNet_Mxnet)](https://github.com/AaronLeong/CapsNet_Mxnet)
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
@@ -189,6 +197,8 @@ The implementations has been considered to be official since the authors were di
 
 ## Other
 - [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
+
+[UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
 # Implementations By Dataset
 ## MNIST
@@ -228,6 +238,8 @@ The implementations has been considered to be official since the authors were di
 - [sdhayalk/CapsNet-for-Iceberg-or-Submarine-Classification](https://github.com/sdhayalk/CapsNet-for-Iceberg-or-Submarine-Classification)
 - [leftthomas/IcebergClassifier](https://github.com/leftthomas/IcebergClassifier)
 
+[UP](https://github.com/loretoparisi/CapsNet#CapsNet)
+
 # Implementations by Task
 ## Text Classification
 - [andyweizhao/capsule_text_classification](https://github.com/andyweizhao/capsule_text_classification) :new:
@@ -240,9 +252,13 @@ The implementations has been considered to be official since the authors were di
 ## Natural Language Processing (NLP)
 - [stefan-it/capsnet-nlp](https://github.com/stefan-it/capsnet-nlp)
 
+[UP](https://github.com/loretoparisi/CapsNet#CapsNet)
+
 # Translations
 ## Japanese
 - [CapsNetについての調べ - (JAPANESE)](https://qiita.com/onlyzs/items/5096f50a21758a536d9a)
 
 ## Turkish
 - [deeplearningturkiye/kapsul-agi-capsule-network](https://github.com/deeplearningturkiye/kapsul-agi-capsule-network)
+
+[UP](https://github.com/loretoparisi/CapsNet#CapsNet)
