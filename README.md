@@ -3,6 +3,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 # Table of Contents
 - [What's New](https://github.com/loretoparisi/CapsNet#whats-new)
+- [Abstract](https://github.com/loretoparisi/CapsNet#abstract)
 - [Documentation](https://github.com/loretoparisi/CapsNet#documentation)
 - [Discussions Groups](https://github.com/loretoparisi/CapsNet#discussion-groups)
 - [Official Implementations](https://github.com/loretoparisi/CapsNet#official-implementations)
@@ -14,10 +15,25 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Other Resources](https://github.com/loretoparisi/CapsNet/blob/master/README.md#other-resources)
 
 # What's New
-- [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910) :new:
-- [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891) :new:
-- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455) :new:
+- [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019 :new:
 - [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300) :new:
+
+# Abstract
+*We cover here the last and most interesting paper's abstract about Capsule Networks*
+
+Objects are composed of a set of geometrically organized parts. We introduce
+an unsupervised capsule autoencoder (SCAE), which explicitly uses geometric
+relationships between parts to reason about objects. Since these relationships do
+not depend on the viewpoint, our model is robust to viewpoint changes. SCAE
+consists of two stages. In the first stage, the model predicts presences and poses of
+part templates directly from the image and tries to reconstruct the image by appropriately arranging the templates. In the second stage, SCAE predicts parameters of
+a few object capsules, which are then used to reconstruct part poses. Inference in
+this model is amortized and performed by off-the-shelf neural encoders, unlike in
+previous capsule networks. We find that object capsule presences are highly informative of the object class, which leads to state-of-the-art results for unsupervised
+classification on SVHN (55%) and MNIST (98.7%).
+
+Excerpt from
+Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
 
 # Documentation
 ## Papers
@@ -37,10 +53,11 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095.pdf)
 - [DeepCaps: Going Deeper with Capsule Networks](https://arxiv.org/abs/1904.09546)
 - [Avoiding Implementation Pitfalls of "Matrix Capsules with EM Routing" by Hinton et al.](https://arxiv.org/abs/1907.00652) Ashley Gritzman, Aug 2019
-- [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910) :new:
+- [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910)
 - [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891):new:
-- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455) :new:
+- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455)
 - [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300) :new:
+- [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019 :new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
