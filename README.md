@@ -3,7 +3,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 # Table of Contents
 - [What's New](https://github.com/loretoparisi/CapsNet#whats-new)
-- [Abstract](https://github.com/loretoparisi/CapsNet#abstract)
+- [Abstract](https://github.com/loretoparisi/CapsNet#abstract) :new:
 - [Documentation](https://github.com/loretoparisi/CapsNet#documentation)
 - [Discussions Groups](https://github.com/loretoparisi/CapsNet#discussion-groups)
 - [Official Implementations](https://github.com/loretoparisi/CapsNet#official-implementations)
@@ -19,9 +19,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300) :new:
 
 # Abstract
-*We cover here the last and most interesting paper's abstract about Capsule Networks*
+We cover here the last and most interesting paper's abstract about Capsule Networks.
 
-Objects are composed of a set of geometrically organized parts. We introduce
+*Objects are composed of a set of geometrically organized parts. We introduce
 an unsupervised capsule autoencoder (SCAE), which explicitly uses geometric
 relationships between parts to reason about objects. Since these relationships do
 not depend on the viewpoint, our model is robust to viewpoint changes. SCAE
@@ -30,7 +30,7 @@ part templates directly from the image and tries to reconstruct the image by app
 a few object capsules, which are then used to reconstruct part poses. Inference in
 this model is amortized and performed by off-the-shelf neural encoders, unlike in
 previous capsule networks. We find that object capsule presences are highly informative of the object class, which leads to state-of-the-art results for unsupervised
-classification on SVHN (55%) and MNIST (98.7%).
+classification on SVHN (55%) and MNIST (98.7%).*
 
 Excerpt from
 Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
