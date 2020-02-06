@@ -15,8 +15,11 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Other Resources](https://github.com/loretoparisi/CapsNet/blob/master/README.md#other-resources)
 
 # What's New
+## Papers
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019 :new:
-- [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300) :new:
+- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455), Fabio De Sousa Ribeiro, Georgios Leontidis, Stefanos Kollias, 27 May 2019 (v1), last revised 3 Dec 2019 :new:
+## Implementations
+- [fabio-deep/Variational-Capsule-Routing](https://github.com/fabio-deep/Variational-Capsule-Routing) :new:
 
 # Abstract
 We cover here the last and most interesting paper's abstract about Capsule Networks.
@@ -58,8 +61,9 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910)
 - [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891):new:
 - [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455)
-- [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300) :new:
+- [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300)
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019 :new:
+- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455), Fabio De Sousa Ribeiro, Georgios Leontidis, Stefanos Kollias, 27 May 2019 (v1), last revised 3 Dec 2019 :new:
 
 [UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
@@ -117,7 +121,8 @@ The implementations has been considered to be official since the authors were di
 - [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
 - [AlexHex7/CapsNet_pytorch](https://github.com/AlexHex7/CapsNet_pytorch)
 - [leftthomas/CCN](https://github.com/leftthomas/CCN)
-- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) :new:
+- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
+- [fabio-deep/Variational-Capsule-Routing](https://github.com/fabio-deep/Variational-Capsule-Routing) :new:
 
 ## Pytorch + CUDA
 - [leftthomas/CapsuleLayer](https://github.com/leftthomas/CapsuleLayer)
