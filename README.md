@@ -16,24 +16,16 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 # What's New
 ## Papers
-- [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019 :new:
-- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455), Fabio De Sousa Ribeiro, Georgios Leontidis, Stefanos Kollias, 27 May 2019 (v1), last revised 3 Dec 2019 :new:
+- [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai,
+, Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 :new:
+
 ## Implementations
 - [fabio-deep/Variational-Capsule-Routing](https://github.com/fabio-deep/Variational-Capsule-Routing) :new:
 
 # Abstract
 We cover here the last and most interesting paper's abstract about Capsule Networks.
 
-*Objects are composed of a set of geometrically organized parts. We introduce
-an unsupervised capsule autoencoder (SCAE), which explicitly uses geometric
-relationships between parts to reason about objects. Since these relationships do
-not depend on the viewpoint, our model is robust to viewpoint changes. SCAE
-consists of two stages. In the first stage, the model predicts presences and poses of
-part templates directly from the image and tries to reconstruct the image by appropriately arranging the templates. In the second stage, SCAE predicts parameters of
-a few object capsules, which are then used to reconstruct part poses. Inference in
-this model is amortized and performed by off-the-shelf neural encoders, unlike in
-previous capsule networks. We find that object capsule presences are highly informative of the object class, which leads to state-of-the-art results for unsupervised
-classification on SVHN (55%) and MNIST (98.7%).*
+*We introduce a new routing algorithm for capsule networks, in which a child capsule is routed to a parent based only on agreement between the parent's state and the child's vote. The new mechanism 1) designs routing via inverted dot-product attention; 2) imposes Layer Normalization as normalization; and 3) replaces sequential iterative routing with concurrent iterative routing. When compared to previously proposed routing algorithms, our method improves performance on benchmark datasets such as CIFAR-10 and CIFAR-100, and it performs at-par with a powerful CNN (ResNet-18) with 4x fewer parameters. On a different task of recognizing digits from overlayed digit images, the proposed capsule model performs favorably against CNNs given the same number of layers and neurons per layer. We believe that our work raises the possibility of applying capsule networks to complex real-world tasks. Our code is publicly available at: https://github.com/apple/ml-capsules-inverted-attention-routing An alternative implementation is available at: https://github.com/yaohungt/Capsules-Inverted-Attention-Routing/blob/master/README.md*
 
 Excerpt from
 Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
@@ -62,8 +54,10 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891):new:
 - [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455)
 - [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300)
-- [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019 :new:
-- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455), Fabio De Sousa Ribeiro, Georgios Leontidis, Stefanos Kollias, 27 May 2019 (v1), last revised 3 Dec 2019 :new:
+- [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019
+- [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455), Fabio De Sousa Ribeiro, Georgios Leontidis, Stefanos Kollias, 27 May 2019 (v1), last revised 3 Dec 2019
+- [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai,
+, Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 :new:
 
 [UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
@@ -100,6 +94,7 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 # Official Implementations
 The implementations has been considered to be official since the authors were directly involved in the papers as co-authors or they had some references.
 - [Sarasra/models](https://github.com/Sarasra/models)
+- [apple/ml-capsules-inverted-attention-routing](https://github.com/apple/ml-capsules-inverted-attention-routing)
 
 # Proof of Work
 - [Adversarial Attack to Capsule Networks](https://github.com/jaesik817/adv_attack_capsnet) :new:
@@ -122,7 +117,8 @@ The implementations has been considered to be official since the authors were di
 - [AlexHex7/CapsNet_pytorch](https://github.com/AlexHex7/CapsNet_pytorch)
 - [leftthomas/CCN](https://github.com/leftthomas/CCN)
 - [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
-- [fabio-deep/Variational-Capsule-Routing](https://github.com/fabio-deep/Variational-Capsule-Routing) :new:
+- [fabio-deep/Variational-Capsule-Routing](https://github.com/fabio-deep/Variational-Capsule-Routing)
+- [apple/ml-capsules-inverted-attention-routing](https://github.com/apple/ml-capsules-inverted-attention-routing) :new:
 
 ## Pytorch + CUDA
 - [leftthomas/CapsuleLayer](https://github.com/leftthomas/CapsuleLayer)
