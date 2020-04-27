@@ -20,7 +20,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 , Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 :new:
 
 ## Implementations
-- [fabio-deep/Variational-Capsule-Routing](https://github.com/fabio-deep/Variational-Capsule-Routing) :new:
+- [apple/ml-capsules-inverted-attention-routing](https://github.com/apple/ml-capsules-inverted-attention-routing) :fire:
 
 # Abstract
 We cover here the last and most interesting paper's abstract about Capsule Networks.
