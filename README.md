@@ -28,7 +28,8 @@ We cover here the last and most interesting paper's abstract about Capsule Netwo
 *We introduce a new routing algorithm for capsule networks, in which a child capsule is routed to a parent based only on agreement between the parent's state and the child's vote. The new mechanism 1) designs routing via inverted dot-product attention; 2) imposes Layer Normalization as normalization; and 3) replaces sequential iterative routing with concurrent iterative routing. When compared to previously proposed routing algorithms, our method improves performance on benchmark datasets such as CIFAR-10 and CIFAR-100, and it performs at-par with a powerful CNN (ResNet-18) with 4x fewer parameters. On a different task of recognizing digits from overlayed digit images, the proposed capsule model performs favorably against CNNs given the same number of layers and neurons per layer. We believe that our work raises the possibility of applying capsule networks to complex real-world tasks. Our code is publicly available at: https://github.com/apple/ml-capsules-inverted-attention-routing An alternative implementation is available at: https://github.com/yaohungt/Capsules-Inverted-Attention-Routing/blob/master/README.md*
 
 Excerpt from
-Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
+[CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai,
+, Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 :new:
 
 [UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
