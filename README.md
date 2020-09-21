@@ -19,8 +19,9 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai,
 , Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 :new:
 
-## Implementations
-- [apple/ml-capsules-inverted-attention-routing](https://github.com/apple/ml-capsules-inverted-attention-routing) :fire:
+## Implementations By Dataset
+### Toxic Comment Challenge (Kaggle)
+- [chongjiujjin/capsule-net-with-gru](https://www.kaggle.com/chongjiujjin/capsule-net-with-gru) :fire:
 
 # Abstract
 We cover here the last and most interesting paper's abstract about Capsule Networks.
@@ -239,6 +240,9 @@ The implementations has been considered to be official since the authors were di
 ## Iceberg Classification Challenge (Kaggle)
 - [sdhayalk/CapsNet-for-Iceberg-or-Submarine-Classification](https://github.com/sdhayalk/CapsNet-for-Iceberg-or-Submarine-Classification)
 - [leftthomas/IcebergClassifier](https://github.com/leftthomas/IcebergClassifier)
+
+## Toxic Comment Challenge (Kaggle)
+- [chongjiujjin/capsule-net-with-gru](https://www.kaggle.com/chongjiujjin/capsule-net-with-gru)
 
 [UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
