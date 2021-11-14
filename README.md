@@ -16,7 +16,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 # What's New
 ## Webinar
-- [Pytorch Live Talks t.1 – Capsules and routing techniques (part 1/2)](https://openreview.net/pdf?id=HJe6uANtwH), [Alfredo Canziani](https://twitter.com/alfcnz) :new:
+- [Pytorch Live Talks t.1 – Capsules and routing techniques (part 1/2)](https://youtu.be/EATWLTyLfmc), [Alfredo Canziani](https://twitter.com/alfcnz) :new:
 
 ## Implementations By Dataset
 ### Toxic Comment Challenge (Kaggle)
@@ -86,7 +86,7 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 - [Dynamic Routing Between Capsules](https://www.slideshare.net/kyuhwanjung/vuno-dl-seminarcapsnetskyuhwanjung20171109)
 
 ## Webinar :new:
-- [Pytorch Live Talks t.1 – Capsules and routing techniques (part 1/2)](https://openreview.net/pdf?id=HJe6uANtwH), [Alfredo Canziani](https://twitter.com/alfcnz) :new:
+- [Pytorch Live Talks t.1 – Capsules and routing techniques (part 1/2)](https://youtu.be/EATWLTyLfmc), [Alfredo Canziani](https://twitter.com/alfcnz) :new:
 - [Capsule Networks: An Improvement to Convolutional Networks - Siraj Raval
 ](https://www.youtube.com/watch?v=VKoLGnq15RM)
 
