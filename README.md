@@ -3,8 +3,8 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [What's New](https://github.com/loretoparisi/CapsNet#whats-new)
 # Table of Contents
 - [What's New](https://github.com/loretoparisi/CapsNet#whats-new)
-- [Abstract](https://github.com/loretoparisi/CapsNet#abstract) :new:
-- [Documentation](https://github.com/loretoparisi/CapsNet#documentation)
+- [Abstract](https://github.com/loretoparisi/CapsNet#abstract)
+- [Documentation](https://github.com/loretoparisi/CapsNet#documentation) :new:
 - [Discussions Groups](https://github.com/loretoparisi/CapsNet#discussion-groups)
 - [Official Implementations](https://github.com/loretoparisi/CapsNet#official-implementations)
 - [Proof of Work](https://github.com/loretoparisi/CapsNet#proof-of-work)
@@ -15,13 +15,12 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [Other Resources](https://github.com/loretoparisi/CapsNet/blob/master/README.md#other-resources)
 
 # What's New
-## Papers
-- [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai,
-, Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 :new:
+## Webinar
+- [Pytorch Live Talks t.1 – Capsules and routing techniques (part 1/2)](https://openreview.net/pdf?id=HJe6uANtwH), [Alfredo Canziani](https://twitter.com/alfcnz) :new:
 
 ## Implementations By Dataset
 ### Toxic Comment Challenge (Kaggle)
-- [chongjiujjin/capsule-net-with-gru](https://www.kaggle.com/chongjiujjin/capsule-net-with-gru) :fire:
+- [chongjiujjin/capsule-net-with-gru](https://www.kaggle.com/chongjiujjin/capsule-net-with-gru)
 
 # Abstract
 We cover here the last and most interesting paper's abstract about Capsule Networks.
@@ -36,6 +35,8 @@ Excerpt from
 
 # Documentation
 ## Papers
+- [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai,
+, Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020
 - [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v1), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 26 Oct 2017
 - [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb), Anonymous authors, ICLR 2018
 - [Does the Brain do Inverse Graphics?](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10754.pdf), Geoffrey Hinton, Alex Krizhevsky, Navdeep Jaitly, Tijmen Tieleman & Yichuan Tang, Department of Computer Science, University of Toronto, GSS 2012. 
@@ -84,7 +85,8 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3,
 ## Presentations
 - [Dynamic Routing Between Capsules](https://www.slideshare.net/kyuhwanjung/vuno-dl-seminarcapsnetskyuhwanjung20171109)
 
-## Webinar
+## Webinar :new:
+- [Pytorch Live Talks t.1 – Capsules and routing techniques (part 1/2)](https://openreview.net/pdf?id=HJe6uANtwH), [Alfredo Canziani](https://twitter.com/alfcnz) :new:
 - [Capsule Networks: An Improvement to Convolutional Networks - Siraj Raval
 ](https://www.youtube.com/watch?v=VKoLGnq15RM)
 
